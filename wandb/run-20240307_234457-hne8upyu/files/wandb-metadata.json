@@ -1,0 +1,52 @@
+{
+    "os": "Windows-10-10.0.22631-SP0",
+    "python": "3.11.5",
+    "heartbeatAt": "2024-03-07T23:44:58.435801",
+    "startedAt": "2024-03-07T23:44:57.455070",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "git": {
+        "remote": null,
+        "commit": "69a561b3a4048faf9865d97f9633c6ee41fa1292"
+    },
+    "email": "chstrokin@gmail.com",
+    "root": "C:/Users/18446/iCloudDrive/iCloud~md~obsidian/obsidian note/Deep Learning/Deep learning/Dive into Deep Learning/Code",
+    "host": "Steven-Qi",
+    "username": "18446",
+    "executable": "c:\\Users\\18446\\anaconda3\\envs\\cglm\\python.exe",
+    "cpu_count": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 4001.0,
+        "min": 0.0,
+        "max": 4001.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 4001.0,
+            "min": 0.0,
+            "max": 4001.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 475.6321449279785,
+            "used": 233.85538482666016
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 4060 Laptop GPU",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 4060 Laptop GPU",
+            "memory_total": 8585740288
+        }
+    ],
+    "memory": {
+        "total": 39.22264862060547
+    }
+}
